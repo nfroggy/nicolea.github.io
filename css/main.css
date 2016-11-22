@@ -1,0 +1,49 @@
+  position: relative; 
+
+}
+
+
+
+
+
+
+/*-------------------header div-------------------*/
+div#header {
+	float: left; /*floats the div to the top left*/
+	width: 900px;/*sets a fixed height*/
+	height: 200px;
+	background-color: #ffffff;
+	margin-top: 0px;
+	border: none;
+	padding-top:25px;
+	padding-bottom:10px;
+	text-align: center;
+
+	
+	
+}
+
+div#nav {
+	float:left;
+	width: 160px;
+	height: 300px;
+	padding-bottom:	150px;
+	padding-right:50px;
+	font-color: grey;
+	text-decoration:none;
+	color: #666;
+	 position: fixed; 
+margin-left: 10px;
+margin-top: 245px;
+
+	
+}
+	
+	div#info {
+	float:left;
+	width:490px;
+	padding-top:15px;
+	height: 2000px;
+	margin-left: 200px;}
+
+a:link {
